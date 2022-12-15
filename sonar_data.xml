@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <customer>000000094734115</customer>
+    <cust_visits>12</cust_visits>
+  </row>
+  <row>
+    <customer>000000010657556</customer>
+    <cust_visits>50</cust_visits>
+  </row>
+  <row>
+    <customer>000000000275067</customer>
+    <cust_visits>124</cust_visits>
+  </row>
+  <row>
+    <customer>000000000195870</customer>
+    <cust_visits>84</cust_visits>
+  </row>
+  <row>
+    <customer>000000122160794</customer>
+    <cust_visits>48</cust_visits>
+  </row>
+</root>
